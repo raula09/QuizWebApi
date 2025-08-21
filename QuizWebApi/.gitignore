@@ -1,0 +1,74 @@
+# ------------------------------
+# .NET Build Artifacts
+# ------------------------------
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# ------------------------------
+# User-specific / IDE
+# ------------------------------
+.vs/
+.vscode/
+*.user
+*.suo
+*.swp
+
+# ------------------------------
+# OS-specific
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Dependency Cache
+# ------------------------------
+*.nuget
+*.nupkg
+packages/
+node_modules/
+
+# ------------------------------
+# Docker
+# ------------------------------
+docker-compose.override.yml
+docker-compose.override.*.yml
+*.env
+
+# ------------------------------
+# Secrets & Configs
+# ------------------------------
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
+
+# ------------------------------
+# Logs & Temp
+# ------------------------------
+logs/
+*.log
+*.tmp
+*.temp
+
+# ------------------------------
+# Test / Coverage
+# ------------------------------
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# ------------------------------
+# Rider / JetBrains IDE
+# ------------------------------
+.idea/
+*.iml
+
+# ------------------------------
+# Visual Studio Code
+# ------------------------------
+.history/

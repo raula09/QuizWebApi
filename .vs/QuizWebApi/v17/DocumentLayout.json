@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\raul0\\source\\repos\\QuizWebApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117871F2-9BBB-4FA8-9A39-D14766FB6740}|QuizWebApi\\QuizWebApi.csproj|c:\\users\\raul0\\source\\repos\\quizwebapi\\quizwebapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{117871F2-9BBB-4FA8-9A39-D14766FB6740}|QuizWebApi\\QuizWebApi.csproj|solutionrelative:quizwebapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\raul0\\source\\repos\\QuizWebApi\\QuizWebApi\\.gitignore",
+              "RelativeDocumentMoniker": "QuizWebApi\\.gitignore",
+              "ToolTip": "C:\\Users\\raul0\\source\\repos\\QuizWebApi\\QuizWebApi\\.gitignore",
+              "RelativeToolTip": "QuizWebApi\\.gitignore",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-21T16:35:59.844Z",
+              "EditorCaption": ""
             }
           ]
         }
